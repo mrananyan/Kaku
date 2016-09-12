@@ -37,6 +37,7 @@ My bitcoin wallet : **1KtpFtaLW52tCe2VhWxCMHmRt8Mrxqj4WB** :moneybag:
 
 + 繁體中文 (沒錯，這個程式 Made in Taiwan XD)
 + 日本語
++ Հայերեն / Armenian
 + Portuguese
 + English
 + Français
